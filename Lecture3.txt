@@ -1,0 +1,1 @@
+Int this lecture we studied how frontend is connected with backend and with database
