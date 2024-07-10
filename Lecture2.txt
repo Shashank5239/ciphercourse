@@ -1,0 +1,1 @@
+in this lecture we studied introduction of full stack developement and overview of that and also about the the mongo DB
